@@ -1,0 +1,42 @@
+----
+3 tutig  fearin 1222 222
+4 firsov daniil 2000 111
+5 amosov amosrr 1970 155
+12 qwerty qwerty 2000 121
+14 wert   qwer   1488 888
+ 
+14 wert   qwer   1488 888
+12 qwerty qwerty 2000 121
+5 amosov amosrr 1970 155
+4 firsov daniil 2000 111
+3 tutig  fearin 1222 222
+----
+3 tutig  fearin 1222 222
+4 firsov daniil 2000 111
+5 amosov amosrr 1970 155
+12 qwerty qwerty 2000 121
+14 wert   qwer   1488 888
+133 qwerty qazqaz 1234 123
+ 
+133 qwerty qazqaz 1234 123
+14 wert   qwer   1488 888
+12 qwerty qwerty 2000 121
+5 amosov amosrr 1970 155
+4 firsov daniil 2000 111
+3 tutig  fearin 1222 222
+Kniga avtora
+12 qwerty qwerty 2000 121
+----
+3 tutig  fearin 1222 222
+4 firsov daniil 2000 111
+5 amosov amosrr 1970 155
+12 qwerty qwerty 2000 121
+14 wert   qwer   1488 888
+133 qwerty qazqaz 1234 123
+ 
+133 qwerty qazqaz 1234 123
+14 wert   qwer   1488 888
+12 qwerty qwerty 2000 121
+5 amosov amosrr 1970 155
+4 firsov daniil 2000 111
+3 tutig  fearin 1222 222
